@@ -26,6 +26,9 @@ ans:
 18 1
 19 1
 
+Thought my answer is right and will be graded and will give you the right answer, but I suggest to follow Dr.chucks answer. I know there is something I
+am missing.
+
 '''
 
 name = input("Enter file: ")
